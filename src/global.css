@@ -1,0 +1,10 @@
+@font-face {   
+  font-family: "Rubik";   
+  src: url('./assets/fonts/static/Rubik-Bold.ttf') 
+}
+
+
+.textfont{
+  font-family: "Rubik";
+  font-size: 27px;
+}

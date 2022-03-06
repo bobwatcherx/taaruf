@@ -1,0 +1,6 @@
+{
+  "appId": "com.app.bok3p",
+  "appName": "instogram",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
